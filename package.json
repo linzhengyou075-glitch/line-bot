@@ -1,12 +1,1 @@
-{
-  "name": "jiaoge-line-bot-v2",
-  "version": "2.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "@line/bot-sdk": "latest",
-    "express": "latest"
-  }
-}
+{"scripts":{"start":"node index.js"},"dependencies":{"@line/bot-sdk":"latest","express":"latest"},"engines":{"node":"24.x"}}
