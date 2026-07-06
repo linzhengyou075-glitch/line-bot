@@ -1,1 +1,13 @@
-{"scripts":{"start":"node index.js"},"dependencies":{"@line/bot-sdk":"latest","express":"latest"},"engines":{"node":"24.x"}}
+{
+  "name": "banana-friends-bot-v8",
+  "version": "8.0.0",
+  "main": "index.js",
+  "scripts": {"start":"node index.js"},
+  "dependencies": {
+    "@line/bot-sdk": "latest",
+    "express": "latest",
+    "ejs": "latest",
+    "body-parser": "latest"
+  },
+  "engines": {"node": ">=18"}
+}
